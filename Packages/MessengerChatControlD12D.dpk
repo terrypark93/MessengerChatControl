@@ -1,0 +1,16 @@
+package MessengerChatControlD12D;
+
+{$DESCRIPTION 'TMessengerChat design-time package for Delphi 12'}
+{$DESIGNONLY}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  designide,
+  MessengerChatControlD12R;
+
+contains
+  MessengerChatControlReg in 'MessengerChatControlReg.pas';
+
+end.
