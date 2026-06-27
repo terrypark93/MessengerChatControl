@@ -14,7 +14,7 @@ English | 한국어
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ---
 
