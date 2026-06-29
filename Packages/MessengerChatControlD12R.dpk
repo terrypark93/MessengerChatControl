@@ -1,0 +1,14 @@
+package MessengerChatControlD12R;
+
+{$DESCRIPTION 'TMessengerChat runtime package for Delphi 12'}
+{$RUNONLY}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl;
+
+contains
+  MessengerChatControl in '..\MessengerChatControl.pas';
+
+end.
